@@ -1,7 +1,68 @@
 # Tamil:
 
-  - Aruvi
+  - Aruvi : 
+    Things learnt : yet to write...
 
-  - Theeran
+  - Theeran : 
+    Things learnt : yet to write...
 
-  - Velikaran
+  - Velikaran : 
+    Things learnt : yet to write...
+
+  - Saka podu podu raja :
+    Things learnt : yet to write...
+
+  - Richie :
+    Things learnt : yet to write...
+
+  - Mersal : 
+    Things learnt : yet to write...
+
+  - Vivegam : 
+    Things learnt : yet to write...
+
+  - Magalir mattum :
+    Things learnt : yet to write...
+
+  - Thuparivalan:
+    Things learnt : yet to write...
+
+  - Tharamani:
+    Things learnt : yet to write...
+
+  - Vikram Vedha:
+    Things learnt : yet to write...
+
+  - 
+
+# English:
+
+  - Ferdinand:
+    Things learnt : yet to write...
+
+  - Criminal:
+    Things learnt : yet to write...
+
+  - Coco:
+    Things learnt : yet to write... 
+
+  - Wonder:
+    Things learnt : yet to write...
+
+  - Amityvile:
+    Things learnt : yet to write...
+
+  - Thor Ragnorak:
+    Things learnt : yet to write...
+
+  - Spider man home coming:
+    Things learnt : yet to write...
+
+  - Pirate of the carribean:
+    Things learnt : yet to write...
+
+  - Justice league:
+    Things learnt : yet to write...
+
+  - Stars wars:
+    Things learnt : yet to write...
